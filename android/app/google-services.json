@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845102775104",
+    "firebase_url": "https://youname-default-rtdb.firebaseio.com",
+    "project_id": "youname",
+    "storage_bucket": "youname.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845102775104:android:854fd7ab9aa03337e898a5",
+        "android_client_info": {
+          "package_name": "com.boss.leaderboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845102775104-n8j3esnl42rku2d0jopq7vsa0h7a3od4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1K__7AxKZFhT2QY611TIWPOAAo3TmKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845102775104-n8j3esnl42rku2d0jopq7vsa0h7a3od4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
